@@ -2,7 +2,7 @@ from tkinter import *
 from tkinter import ttk
 
 
-class Ventana():
+class Ventanta():
 	__ventana=Tk()
 	__ventana.title("Calculadora IPC")
 	__ipc=StringVar()
